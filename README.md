@@ -10,7 +10,9 @@
 
 > [!NOTE]
 > **Interests:** Ruby, Ruby on Rails, Rust, Flutter \
-> **Learning:** Django, Vue
+> **Learning:** Django, Vue \
+> **Long Term Goal:** Continue Star Generation \
+> **Short Term Goal:** Achieve Proficiency in Django and Vue
 
 > [!NOTE]  
 > *Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.*
