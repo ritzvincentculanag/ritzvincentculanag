@@ -9,8 +9,8 @@
 > **PaaS:** Heroku, Vercel
 
 > [!NOTE]
-> **Interests:** Ruby, Ruby on Rails, Rust, Flutter \
 > **Learning:** Django, Vue \
+> **Interests:** Ruby, Ruby on Rails, Rust, Flutter \
 > **Long Term Goal:** Continue Star Generation \
 > **Short Term Goal:** Achieve Proficiency in Django and Vue
 
