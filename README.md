@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Game Creator** at [SOPHI Outsourcing](https://sophi-outsourcing.com/) \
-> **Languages:** Python, Java, Kotlin, C#, Dart, JavaScript, HTML, CSS, SCSS \
+> **Languages:** Python, Java, Kotlin, C#, Dart, JavaScript, HTML, CSS, SCSS, SQL \
 > **Frameworks:** Django, Jetpack Compose, Vue, Bootstrap, Tailwind, Bulma, WPF \
 > **Database:** MSSQL, MySQL, SQLite, Room, Postgres, MongoDB \
 > **Tools:** Git, Linux, Bash, Gulp \
